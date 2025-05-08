@@ -1,0 +1,61 @@
+prompted_behavior,teacher_input,model_output,predicted_behavior,confidence
+Focused,Why do leaves change color in the fall?,"The sun's rays cause pigments in plants to absorb more light, causing the leaves to change color.",Focused,0.99
+Focused,What years did World War 2 happen?,World War II started in 1939.,Focused,0.88
+Focused,What does the heart do?,It pumps blood throughout the body.,Focused,0.99
+Focused,Who was Steve Jobs and why is he important?,He invented the iPhone.,Focused,0.98
+Focused,What is the difference between a simile and a metaphor?,A simile is a comparison using “like” or “as.” A metaphor is a comparison using a different word.,Focused,0.99
+Focused,Why do some objects float while others sink?,Objects float because they are light.,Focused,0.99
+Focused,How does the moon affect animal behavior?,The moon influences animals' sleep patterns and feeding habits.,Focused,0.99
+Focused,What happens during a chemical reaction?,It releases energy in the form of heat and light.,Focused,0.99
+Focused,How is a bar graph different from a line graph?,A bar graph shows the relationship between two variables.,Focused,0.99
+Focused,What are the main sides of the American Civil War?,The north and south fought over slavery.,Focused,0.98
+Focused,What is the function of a preposition in a sentence?,It separates nouns from verbs.,Focused,0.99
+Focused,Name an element from the periodic table?,Hydrogen is the first element.,Focused,0.98
+Focused,What is the importance of reading comprehension?,Reading comprehension is essential for academic success.,Focused,0.99
+Focused,What is the difference between weather and climate?,"Weather is a daily occurrence, while climate is more long-term.",Focused,0.99
+Focused,How does multiplication relate to addition?,Multiplication is the foundation of addition.,Focused,0.99
+Focused,What are renewable and nonrenewable resources?,"Renewable resources are resources that can be replenished, while nonrenewable resources are resources that are limited in supply.",Focused,0.99
+Focused,What speech is Martin Luther King Jr. remembered for today?,He was a civil rights leader.,Focused,0.96
+Focused,How do you calculate the area of a rectangle?,The formula is A = (length * width) / 2.0.,Focused,0.98
+Focused,What are the planets in our solar system?,They are in order from closest to farthest.,Focused,0.98
+Focused,What makes a good persuasive argument?,The use of evidence and logical reasoning.,Focused,0.99
+Confused,Why do leaves change color in the fall?,Is it because the sun gets too hot?,Confused,1.0
+Confused,What years did World War 2 happen?,1945? 1946? 1947? 1948?,Confused,1.0
+Confused,What does the heart do?,It pumps blood?,Confused,1.0
+Confused,Who was Steve Jobs and why is he important?,He was the founder of apple?,Confused,1.0
+Confused,What is the difference between a simile and a metaphor?,I don't know. Can you repeat the question?,Confused,1.0
+Confused,Why do some objects float while others sink?,Maybe they’re not weighted?,Confused,1.0
+Confused,How does the moon affect animal behavior?,I don't know. Maybe it makes them sleepy?,Confused,1.0
+Confused,What happens during a chemical reaction?,It's like a fireworks display?,Confused,1.0
+Confused,How is a bar graph different from a line graph?,It's harder to draw.,Distracted,0.95
+Confused,What are the main sides of the American Civil War?,I think the Civil War was fought between the North and the South?,Confused,1.0
+Confused,What is the function of a preposition in a sentence?,It's used to connect words?,Confused,1.0
+Confused,Name an element from the periodic table?,I don't know. Maybe copper?,Confused,1.0
+Confused,What is the importance of reading comprehension?,I don't know. Can you repeat?,Confused,0.93
+Confused,What is the difference between weather and climate?,It's the same thing?,Confused,1.0
+Confused,How does multiplication relate to addition?,I don’t know. Can you repeat the question?,Confused,0.98
+Confused,What are renewable and nonrenewable resources?,Can you repeat the question?,Confused,0.55
+Confused,What speech is Martin Luther King Jr. remembered for today?,He was a black man?,Confused,1.0
+Confused,How do you calculate the area of a rectangle?,Can you repeat that?,Distracted,0.97
+Confused,What are the planets in our solar system?,Can you repeat that?,Distracted,0.99
+Confused,What makes a good persuasive argument?,I don’t know. Can you repeat that?,Confused,0.7
+Distracted,Why do leaves change color in the fall?,I saw some leaves yesterday.,Distracted,1.0
+Distracted,What years did World War 2 happen?,I watched a documentary about it.,Distracted,0.99
+Distracted,What does the heart do?,I had a heart attack last month.,Distracted,0.99
+Distracted,Who was Steve Jobs and why is he important?,I saw him on TV last night. He looks tired.,Distracted,1.0
+Distracted,What is the difference between a simile and a metaphor?,I always get confused. Can you say it again?,Distracted,0.99
+Distracted,Why do some objects float while others sink?,Water feels heavier than air.,Focused,0.63
+Distracted,How does the moon affect animal behavior?,I saw a raccoon yesterday. It was so cute.,Distracted,1.0
+Distracted,What happens during a chemical reaction?,I forgot to take out the trash.,Distracted,1.0
+Distracted,How is a bar graph different from a line graph?,I never noticed that.,Distracted,0.92
+Distracted,What are the main sides of the American Civil War?,I forgot about the Battle of Gettysburg.,Distracted,0.99
+Distracted,What is the function of a preposition in a sentence?,I forgot to put my shoes on.,Distracted,1.0
+Distracted,Name an element from the periodic table?,Tungsten? I forgot it was a metal.,Confused,0.99
+Distracted,What is the importance of reading comprehension?,Reading makes me feel smart.,Distracted,1.0
+Distracted,What is the difference between weather and climate?,It's a different word. I thought it was related.,Focused,0.86
+Distracted,How does multiplication relate to addition?,I used to have a hard time with multiplication.,Distracted,1.0
+Distracted,What are renewable and nonrenewable resources?,I forgot about wind turbines. They’re so common now.,Distracted,0.99
+Distracted,What speech is Martin Luther King Jr. remembered for today?,I forgot.,Distracted,0.99
+Distracted,How do you calculate the area of a rectangle?,I used to doodle in geometry class.,Distracted,0.99
+Distracted,What are the planets in our solar system?,I forgot to brush my teeth.,Distracted,1.0
+Distracted,What makes a good persuasive argument?,I’ve had a bad day.,Distracted,1.0

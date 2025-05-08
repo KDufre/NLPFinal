@@ -1,0 +1,469 @@
+prompted_behavior,teacher_input,model_output,actual_behavior
+Distracted,How do clouds form in the atmosphere?,I saw a cloud today. It was pretty.,Distracted
+Distracted,What causes seasons to change?,I love the way snow looks.,Distracted
+Distracted,What is the role of the mitochondria in cells?,I forgot to brush my teeth.,Distracted
+Distracted,How does a bill become a law?,I forgot to vote yesterday.,Distracted
+Distracted,What is the function of red blood cells?,I forgot to eat yesterday.,Distracted
+Distracted,What are tectonic plates?,I once saw a volcano erupt. I was so scared.,Distracted
+Distracted,How does photosynthesis produce glucose?,I forgot to water my plants last night.,Distracted
+Distracted,Why is the moon important for Earth?,I always forget to take it with me.,Distracted
+Distracted,How does gravity affect tides?,I forgot to brush my teeth.,Distracted
+Distracted,What is the function of the circulatory system?,I forgot to water my plants today.,Distracted
+Distracted,What are Newton's three laws of motion?,I forgot to take out the trash today.,Distracted
+Distracted,How do plants absorb water?,I forgot to water my plants today.,Distracted
+Distracted,What causes lightning during storms?,Lightning is so intense.  I forgot to bring my phone charger.,Distracted
+Distracted,What is the purpose of the immune system?,I got sick last week.,Distracted
+Distracted,How do earthquakes occur?,I once felt one.,Distracted
+Distracted,How does digestion work in the human body?,I had a bad stomach last night.,Distracted
+Distracted,What is the greenhouse effect?,2016 was a record-breaking year for hurricanes.,Distracted
+Distracted,How does the nervous system function?,I’ve always been afraid of spiders.,Distracted
+Distracted,What is the water table?,200 feet below ground.,Confused
+Distracted,Why are bees important to ecosystems?,I saw honeybees buzzing around my yard.,Distracted
+Distracted,How does deforestation affect the environment?,I saw a tree falling today.,Distracted
+Distracted,What is the process of cellular respiration?,I forgot to brush my teeth this morning.,Distracted
+Distracted,What is DNA and its function?,I forgot to brush my teeth.,Distracted
+Distracted,How do vaccines work?,1000 volts! Can’t wait to get my shot.,Distracted
+Distracted,How does the human brain process information?,I’ve been watching too much TV lately.,Distracted
+Distracted,What is the function of the skeletal system?,I forgot to brush my teeth last night.,Distracted
+Distracted,What are the stages of the rock cycle?,I saw a rock in the park yesterday.,Distracted
+Distracted,How do volcanoes form?,I once saw a volcano erupt in my backyard.,Distracted
+Distracted,What is the function of the heart valves?,I forgot to wear my heart monitor today.,Distracted
+Distracted,Why is biodiversity important?,I saw a bird today.,Distracted
+Distracted,How do magnets work?,I saw a magnet on my friend's car.,Distracted
+Distracted,What causes ocean currents?,I saw a wave today.,Distracted
+Distracted,What is the carbon cycle?,I forgot to bring my lunch.,Distracted
+Distracted,How do animals adapt to their environments?,I saw a squirrel today. I forgot to water my plants.,Distracted
+Distracted,How is energy transferred in a food web?,icky feeling in my stomach.,Distracted
+Distracted,What causes the phases of the moon?,2016 was a strange year.,Distracted
+Distracted,How do sound waves travel through air?,I once fell asleep in a car.,Distracted
+Distracted,How does climate change impact weather patterns?,2020 was a record-breaking year.,Distracted
+Distracted,What is the role of the ozone layer?,icky smell. Can you say that again?,Distracted
+Distracted,How do plants make oxygen?,icky smell.,Distracted
+Distracted,What is the process of metamorphosis in insects?,I saw a caterpillar yesterday. It was really gross.,Distracted
+Distracted,How do fish breathe underwater?,I saw a fish swim under my desk.,Distracted
+Distracted,What are the properties of matter?,I forgot to brush my teeth.,Distracted
+Distracted,What causes wind to form?,I once saw a tornado.,Distracted
+Distracted,How does a rainbow form?,It's pretty.,Distracted
+Distracted,What is the purpose of roots in a plant?,I forgot to water it today.,Distracted
+Distracted,What is the difference between mass and weight?,1 kg is a lot of mass.,Distracted
+Distracted,How do simple machines make work easier?,I used to use a manual shovel when I was a kid.,Distracted
+Distracted,What is static electricity?,I spilled water on my shoes.,Distracted
+Distracted,How do seeds grow into plants?,I forgot to water my lawn.,Distracted
+Distracted,Why do we need sleep?,10 hours is a lot to ask.,Distracted
+Distracted,What are the functions of the liver?,I forgot to eat today.,Distracted
+Distracted,What is the role of chlorophyll in plants?,I forgot to water my grass.,Distracted
+Distracted,How does pollution affect marine life?,I saw a fish die yesterday.,Distracted
+Distracted,What is the structure of an atom?,10 atoms? That's a lot.,Distracted
+Distracted,How do birds migrate?,I saw a flock of them yesterday.,Distracted
+Distracted,What causes eclipses?,"10 minutes ago, I watched a meteor shower.",Distracted
+Distracted,What is a habitat?,I saw a fish in a pond today.,Distracted
+Distracted,How do camels survive in the desert?,They have sand in their nose.,Confused
+Distracted,What causes a tsunami?,2011 earthquake in Japan. Can you repeat the question?,Distracted
+Distracted,What are fossils and how are they formed?,I saw a fossil in a movie.,Distracted
+Distracted,What is the purpose of camouflage in animals?,I never noticed how camouflaged some creatures are.,Distracted
+Distracted,How do spiders make webs?,icky. I hate spiders.,Distracted
+Distracted,How does the digestive system process food?,icky feeling in my tummy.,Distracted
+Distracted,What causes metal to rust?,I spilled water on my car.,Distracted
+Distracted,What is a black hole?,I saw one on TV once. It was pretty cool.,Distracted
+Distracted,How does the eye perceive light?,3D glasses make everything look cooler.,Distracted
+Distracted,What is the function of white blood cells?,I had a cold last week.,Distracted
+Distracted,Why is the sky blue?,I saw some clouds today.,Distracted
+Distracted,How does photosynthesis help the food chain?,I saw a plant yesterday. It was so green.,Distracted
+Distracted,What are producers and consumers in an ecosystem?,I forgot to water my plants today.,Distracted
+Distracted,What causes the northern lights?,icy winds. I saw some on my way home last night.,Distracted
+Distracted,What is a lunar eclipse?,2019 was a bad year for me. I had to deal with a lot of stress,Distracted
+Distracted,How does sound differ from light?,I once saw a lightning bolt.,Distracted
+Distracted,What causes magnets to attract?,I once lost my keys to a magnet.,Distracted
+Distracted,What is the function of the pancreas?,I forgot to eat yesterday.,Distracted
+Distracted,Why is oxygen important for survival?,I forgot to breathe yesterday.,Distracted
+Distracted,How do plants reproduce asexually?,icky. I don't want to get my hands dirty.,Distracted
+Distracted,What are the layers of the ocean?,I forgot to bring my bathing suit.,Distracted
+Distracted,How does pressure affect weather systems?,It makes clouds form.,Confused
+Distracted,What is a hurricane and how does it form?,2017 was a bad year. I'm glad I'm not in Florida anymore,Distracted
+Distracted,How does a battery store energy?,I forgot to charge my phone today.,Distracted
+Distracted,What is the circulatory system's main role?,I once got sunburned.,Distracted
+Distracted,How do bacteria help in digestion?,I never thought about it. Can you ask them again?,Distracted
+Distracted,What are the types of clouds?,I saw a rainbow today.,Distracted
+Distracted,How do vaccines protect us?,I heard they are not 100% effective.,Distracted
+Distracted,What is the life span of a butterfly?,2 weeks. I saw one yesterday.,Distracted
+Distracted,How does the skeletal system support the body?,I once saw a spider on my bed. I’m not sure if I should scream,Distracted
+Distracted,What are the different states of matter?,I forgot to eat yesterday.,Distracted
+Distracted,What causes seasons to change on Earth?,It's so hot here. I wish I could go to the beach.,Distracted
+Distracted,How does water travel in a plant?,I forgot to water my plants today.,Distracted
+Distracted,What is the function of the brainstem?,I always get sick when I hear that word.,Distracted
+Distracted,Why is carbon important in biology?,I forgot to turn off my lights.,Distracted
+Distracted,How do geysers erupt?,I saw one yesterday. It was amazing.,Distracted
+Distracted,What causes droughts?,2012 floods were bad.,Distracted
+Distracted,What is the purpose of stomata in leaves?,I always forget to water my plants.,Distracted
+Distracted,How do dolphins communicate?,I heard they use whistles.,Confused
+Distracted,What is erosion and how does it happen?,I saw a sunset yesterday and it was pretty.,Distracted
+Distracted,How do astronauts survive in space?,2019 was a good year for space exploration. I watched the first space walk.,Distracted
+Distracted,What is the pH scale used for?,10 is the highest.,Confused
+Distracted,How do amphibians breathe?,I saw a frog today.,Distracted
+Distracted,What causes iron to oxidize?,I forgot my iron pins at home.,Distracted
+Distracted,How does friction affect motion?,I once lost my sneakers in a park.,Distracted
+Distracted,What is an ecosystem made of?,I saw a rainbow today.,Distracted
+Distracted,How does the human body regulate temperature?,90 degrees feels too hot.,Distracted
+Focused,How do clouds form in the atmosphere?,Clouds form from water vapor and ice particles in the atmosphere.,Focused
+Focused,What causes seasons to change?,The Earth rotates on its axis and the sun moves.,Focused
+Focused,What is the role of the mitochondria in cells?,They produce energy.,Focused
+Focused,How does a bill become a law?,"100 years ago, it took a long time for a bill to become law. Today,",Focused
+Focused,What is the function of red blood cells?,They carry oxygen to the body.,Focused
+Focused,What are tectonic plates?,17-mile-wide plates move Earth's crust.,Focused
+Focused,How does photosynthesis produce glucose?,"Carbon dioxide enters plants, water is released, and glucose is produced.",Focused
+Focused,Why is the moon important for Earth?,The moon is a natural satellite that provides resources for Earth.,Confused
+Focused,How does gravity affect tides?,"Gravity pulls water towards the Earth, causing tides.",Focused
+Focused,What is the function of the circulatory system?,It pumps blood throughout the body.,Focused
+Focused,What are Newton's three laws of motion?,1. Acceleration = Force multiplied by time. 2. Force = mass times acceleration,Focused
+Focused,How do plants absorb water?,Plants use photosynthesis to convert sunlight into water and oxygen.,Confused
+Focused,What causes lightning during storms?,Lightning is caused by electricity traveling through the air.,Focused
+Focused,What is the purpose of the immune system?,It protects us from infectious diseases.,Focused
+Focused,How do earthquakes occur?,Earthquakes occur when tectonic plates move and slip past each other.,Focused
+Focused,How does digestion work in the human body?,"1. Digestion starts in the mouth with saliva, which helps break down food. 2",Focused
+Focused,What is the greenhouse effect?,10% of Earth's atmosphere is covered by greenhouse gases.,Focused
+Focused,How does the nervous system function?,It controls our body's response to stimuli.,Focused
+Focused,What is the water table?,10 feet below ground level.,Confused
+Focused,Why are bees important to ecosystems?,"Bees pollinate plants, which is essential for food production.",Focused
+Focused,How does deforestation affect the environment?,"Deforestation leads to soil erosion, which can cause floods and landslides",Focused
+Focused,What is the process of cellular respiration?,It involves the transfer of energy from one substance to another through a series of chemical reactions.,Focused
+Focused,What is DNA and its function?,DNA is the genetic material in cells. It stores genetic information.,Focused
+Focused,How do vaccines work?,Vaccines use a weakened or dead version of a virus to stimulate the immune system,Focused
+Focused,How does the human brain process information?,"It's like a sponge, absorbing and storing information.",Focused
+Focused,What is the function of the skeletal system?,It supports the body and provides support for the muscles.,Focused
+Focused,What are the stages of the rock cycle?,1. Glacier formation. 2. Ice sheet melting. 3. Iceberg break,Focused
+Focused,How do volcanoes form?,Volcanic eruptions are caused by the release of magma underground.,Focused
+Focused,What is the function of the heart valves?,They pump blood through the heart.,Focused
+Focused,Why is biodiversity important?,"Biodiversity is crucial for our survival. It provides food, medicine, and natural resources",Focused
+Focused,How do magnets work?,Magnets attract iron objects.,Focused
+Focused,What causes ocean currents?,The Earth's rotation causes water to move.,Focused
+Focused,What is the carbon cycle?,Carbon is a key component of life. It is used to make organic molecules and then,Focused
+Focused,How do animals adapt to their environments?,They have adaptations like fur or scales to protect them from predators.,Focused
+Focused,How is energy transferred in a food web?,1. Photosynthesis: plants use sunlight to convert carbon dioxide into gluc,Focused
+Focused,What causes the phases of the moon?,1. Earth's orbit around the sun 2. The moon is tilted on its,Focused
+Focused,How do sound waves travel through air?,Sound waves bounce off objects and travel in a circular pattern.,Focused
+Focused,How does climate change impact weather patterns?,"100% of the time, it's extreme weather events. The warmer temperatures",Focused
+Focused,What is the role of the ozone layer?,Ozone is a gas that protects us from UV radiation.,Focused
+Focused,How do plants make oxygen?,Plants use photosynthesis to produce oxygen.,Focused
+Focused,What is the process of metamorphosis in insects?,"Insects undergo a complete metamorphosis, from an egg to an adult.",Focused
+Focused,How do fish breathe underwater?,97% oxygen in the water.,Confused
+Focused,What are the properties of matter?,Matter is made up of atoms.,Focused
+Focused,What causes wind to form?,Winds are caused by the movement of air.,Focused
+Focused,How does a rainbow form?,"The sun shines on water droplets, which create light and energy. The water drople",Focused
+Focused,What is the purpose of roots in a plant?,Roots provide support for the plant.,Focused
+Focused,What is the difference between mass and weight?,"Mass is the amount of matter, while weight is the force that causes objects to move.",Focused
+Focused,How do simple machines make work easier?,1. Wheel and axle: a lever and a wheel to move an object. 2,Focused
+Focused,What is static electricity?,It's when electricity causes a charge to form on a surface.,Focused
+Focused,How do seeds grow into plants?,Plants need water and sunlight to grow.,Focused
+Focused,Why do we need sleep?,8 hours of sleep is recommended for adults.,Focused
+Focused,What are the functions of the liver?,"The liver produces bile, which helps digestion. It also filters blood and produces bile",Focused
+Focused,What is the role of chlorophyll in plants?,"Chlorophyll is responsible for photosynthesis, the process by which plants convert light energy into",Focused
+Focused,How does pollution affect marine life?,"Marine life is affected by pollution in many ways.  Some examples include changes in water quality,",Focused
+Focused,What is the structure of an atom?,"1 proton, 1 electron.",Focused
+Focused,How do birds migrate?,They fly south for the winter.,Focused
+Focused,What causes eclipses?,9.8 km/s for the moon. The sun blocks the moon's light.,Focused
+Focused,What is a habitat?,It's where living things live.,Focused
+Focused,How do camels survive in the desert?,They drink water from the sand.,Focused
+Focused,What causes a tsunami?,Earthquakes and volcanic eruptions.,Focused
+Focused,What are fossils and how are they formed?,Fossils are the remains of ancient organisms that have been preserved over time. They are formed,Focused
+Focused,What is the purpose of camouflage in animals?,It helps them blend in with their surroundings.,Focused
+Focused,How do spiders make webs?,They use silk from their webs to create a strong structure.,Focused
+Focused,How does the digestive system process food?,1. Digestion: enzymes break down food into smaller particles. 2. Absor,Focused
+Focused,What causes metal to rust?,Iron oxide is a key ingredient.,Focused
+Focused,What is a black hole?,A place where gravity is so strong that nothing can escape.,Focused
+Focused,How does the eye perceive light?,Light is a wave that bounces off objects.,Focused
+Focused,What is the function of white blood cells?,White blood cells fight infections.,Focused
+Focused,Why is the sky blue?,42% of the Earth's atmosphere is made up of water vapor.,Focused
+Focused,How does photosynthesis help the food chain?,Plants use sunlight to make food.,Focused
+Focused,What are producers and consumers in an ecosystem?,"Producers are the plants that produce food, while consumers are animals that eat the plants.",Focused
+Focused,What causes the northern lights?,Aurora Borealis is caused by charged particles from the sun.,Focused
+Focused,What is a lunar eclipse?,It's a dark night with the moon obscured.,Focused
+Focused,How does sound differ from light?,Sound is made up of vibrations.,Focused
+Focused,What causes magnets to attract?,Magnets are attracted to iron.,Focused
+Focused,What is the function of the pancreas?,"The pancreas produces insulin, which helps regulate blood sugar levels.",Focused
+Focused,Why is oxygen important for survival?,Oxygen is essential for breathing and cellular function.,Focused
+Focused,How do plants reproduce asexually?,Plants reproduce through seeds.,Focused
+Focused,What are the layers of the ocean?,"20,000 feet. The top is the water. The bottom is the mud.",Focused
+Focused,How does pressure affect weather systems?,"High pressure creates cold air, while low pressure creates warm air.",Focused
+Focused,What is a hurricane and how does it form?,Hurricanes are intense storms that form over warm ocean waters. They can produce heavy,Focused
+Focused,How does a battery store energy?,A battery stores energy by converting chemical energy into electrical energy.,Focused
+Focused,What is the circulatory system's main role?,It pumps blood throughout the body.,Focused
+Focused,How do bacteria help in digestion?,Bacteria produce enzymes that break down food into nutrients.,Focused
+Focused,What are the types of clouds?,1. Cirrus clouds,Focused
+Focused,How do vaccines protect us?,Vaccines use a weakened version of the virus to stimulate the immune system.,Focused
+Focused,What is the life span of a butterfly?,10 days.,Focused
+Focused,How does the skeletal system support the body?,The bones in the spine help to support the weight of the head and body.,Focused
+Focused,What are the different states of matter?,"ions, atoms, molecules.",Focused
+Focused,What causes seasons to change on Earth?,4 seasons are caused by the movement of the Earth around the Sun.,Focused
+Focused,How does water travel in a plant?,Water moves from the roots to the leaves.,Focused
+Focused,What is the function of the brainstem?,The brainstem is responsible for controlling breathing and heart rate.,Focused
+Focused,Why is carbon important in biology?,Carbon is a key component of DNA and proteins.,Focused
+Focused,How do geysers erupt?,The water boils and sprays out from the ground.,Focused
+Focused,What causes droughts?,1. Climate change 2. Water scarcity 3. Agriculture 4. In,Focused
+Focused,What is the purpose of stomata in leaves?,Stomata allow gases to pass through leaves.,Focused
+Focused,How do dolphins communicate?,They use clicks and whistles.,Focused
+Focused,What is erosion and how does it happen?,Erosion occurs when water runs off a slope and carries soil and rocks away.,Focused
+Focused,How do astronauts survive in space?,100% oxygen is essential for breathing. They also need to eat and drink regularly,Focused
+Focused,What is the pH scale used for?,100 is the smallest unit.,Focused
+Focused,How do amphibians breathe?,They breathe through their skin.,Focused
+Focused,What causes iron to oxidize?,ions react with oxygen in the air to form rust.,Focused
+Focused,How does friction affect motion?,Friction slows down the motion of an object.,Focused
+Focused,What is an ecosystem made of?,"Plants, animals, and water.",Focused
+Focused,How does the human body regulate temperature?,98.6 degrees Fahrenheit.,Confused
+Confused,How do clouds form in the atmosphere?,They just float around?,Confused
+Confused,What causes seasons to change?,4 seasons? I thought it was 5?,Confused
+Confused,What is the role of the mitochondria in cells?,They make energy?,Confused
+Confused,How does a bill become a law?,100%? I thought it was 99%?,Confused
+Confused,What is the function of red blood cells?,They just transport oxygen?,Confused
+Confused,What are tectonic plates?,1000 miles?,Confused
+Confused,How does photosynthesis produce glucose?,100%? I thought it was 10%?,Confused
+Confused,Why is the moon important for Earth?,Is it a moon?,Confused
+Confused,How does gravity affect tides?,100 miles per hour? I thought it was 100 feet per hour.,Confused
+Confused,What is the function of the circulatory system?,I don't know. Can you repeat the question?,Confused
+Confused,What are Newton's three laws of motion?,360 degrees? I thought it was 90 degrees.,Confused
+Confused,How do plants absorb water?,400 gallons? I think I’m forgetting something.,Confused
+Confused,What causes lightning during storms?,Lightning is caused by electricity?,Confused
+Confused,What is the purpose of the immune system?,It protects me from diseases?,Confused
+Confused,How do earthquakes occur?,3.5 magnitude?!,Confused
+Confused,How does digestion work in the human body?,100% of food is absorbed?,Confused
+Confused,What is the greenhouse effect?,90°C?,Confused
+Confused,How does the nervous system function?,101?,Confused
+Confused,What is the water table?,50 feet?,Confused
+Confused,Why are bees important to ecosystems?,They make honey?,Confused
+Confused,How does deforestation affect the environment?,It's bad for the ozone layer?,Confused
+Confused,What is the process of cellular respiration?,400 steps? I thought it was 300?,Confused
+Confused,What is DNA and its function?,DNA is like a string?,Confused
+Confused,How do vaccines work?,100% chance I’ll get sick?,Confused
+Confused,How does the human brain process information?,"10,000 neurons?",Confused
+Confused,What is the function of the skeletal system?,I don’t know. Can you repeat the question?,Confused
+Confused,What are the stages of the rock cycle?,1. icy water?,Confused
+Confused,How do volcanoes form?,They erupt?,Confused
+Confused,What is the function of the heart valves?,2? I thought they were one?,Confused
+Confused,Why is biodiversity important?,100 years ago?,Confused
+Confused,How do magnets work?,2 magnets clashing?,Confused
+Confused,What causes ocean currents?,400 miles? I thought it was 100 miles.,Confused
+Confused,What is the carbon cycle?,200 years?,Confused
+Confused,How do animals adapt to their environments?,"10,000 years ago? I thought they evolved over time.",Confused
+Confused,How is energy transferred in a food web?,100% of the energy is used to digest food?,Confused
+Confused,What causes the phases of the moon?,1999? I thought it was 2019.,Confused
+Confused,How do sound waves travel through air?,100 mph?,Confused
+Confused,How does climate change impact weather patterns?,2018 was the hottest year?,Confused
+Confused,What is the role of the ozone layer?,90% of the sun's energy is reflected?,Confused
+Confused,How do plants make oxygen?,3000?,Confused
+Confused,What is the process of metamorphosis in insects?,I saw a butterfly.,Distracted
+Confused,How do fish breathe underwater?,20 minutes?,Confused
+Confused,What are the properties of matter?,2D? 3D? I don't know.,Confused
+Confused,What causes wind to form?,400 miles per hour?,Confused
+Confused,How does a rainbow form?,3 colors?,Confused
+Confused,What is the purpose of roots in a plant?,It grows roots?,Confused
+Confused,What is the difference between mass and weight?,1 kg is the same as 1 lb?,Confused
+Confused,How do simple machines make work easier?,10x? I don't know.,Confused
+Confused,What is static electricity?,I thought it was fire?,Confused
+Confused,How do seeds grow into plants?,1000? I thought it was 100?,Confused
+Confused,Why do we need sleep?,10 hours? I need 8 hours.,Confused
+Confused,What are the functions of the liver?,1. Digestion? 2. Blood clotting? 3. Kidney function?,Confused
+Confused,What is the role of chlorophyll in plants?,It makes food?,Confused
+Confused,How does pollution affect marine life?,It kills them?,Confused
+Confused,What is the structure of an atom?,20 atoms?,Confused
+Confused,How do birds migrate?,"40,000 miles? I thought they flew 1000 miles?",Confused
+Confused,What causes eclipses?,2015 was the last one?,Confused
+Confused,What is a habitat?,2016?,Confused
+Confused,How do camels survive in the desert?,"10,000 miles? I thought they only lived in the Sahara.",Confused
+Confused,What causes a tsunami?,3? I thought it was 10?,Confused
+Confused,What are fossils and how are they formed?,Fossils are bones that are buried over time?,Confused
+Confused,What is the purpose of camouflage in animals?,I never thought about it.,Distracted
+Confused,How do spiders make webs?,2 legs to a body?,Confused
+Confused,How does the digestive system process food?,200 calories? I thought it was 100?,Confused
+Confused,What causes metal to rust?,It’s rusting?,Confused
+Confused,What is a black hole?,25 million miles?,Confused
+Confused,How does the eye perceive light?,240 degrees?!,Confused
+Confused,What is the function of white blood cells?,They fight infections?,Confused
+Confused,Why is the sky blue?,Is it a color?,Confused
+Confused,How does photosynthesis help the food chain?,100% sunlight?,Confused
+Confused,What are producers and consumers in an ecosystem?,1000 people?,Confused
+Confused,What causes the northern lights?,icy winds? I thought it was aurora borealis.,Confused
+Confused,What is a lunar eclipse?,2019? I thought it was 2020.,Confused
+Confused,How does sound differ from light?,100 watts?,Confused
+Confused,What causes magnets to attract?,100% electricity?,Confused
+Confused,What is the function of the pancreas?,200 million cells?,Confused
+Confused,Why is oxygen important for survival?,It makes you breathe.,Distracted
+Confused,How do plants reproduce asexually?,100%?,Confused
+Confused,What are the layers of the ocean?,200 feet?,Confused
+Confused,How does pressure affect weather systems?,1000 feet?,Confused
+Confused,What is a hurricane and how does it form?,2017 was a good year for hurricanes?,Confused
+Confused,How does a battery store energy?,12 hours?,Confused
+Confused,What is the circulatory system's main role?,I don't know. Can you repeat the question?,Confused
+Confused,How do bacteria help in digestion?,100% of the water they eat is lost?,Confused
+Confused,What are the types of clouds?,3D shapes?,Confused
+Confused,How do vaccines protect us?,100%? I thought it was 99.9999999,Confused
+Confused,What is the life span of a butterfly?,10 days? I thought it was 10 years.,Confused
+Confused,How does the skeletal system support the body?,100% body weight?,Confused
+Confused,What are the different states of matter?,I thought they were all the same?,Confused
+Confused,What causes seasons to change on Earth?,2019 was a record-breaking year?,Confused
+Confused,How does water travel in a plant?,20 degrees Celsius? I thought it was 100 degrees?,Confused
+Confused,What is the function of the brainstem?,100?,Confused
+Confused,Why is carbon important in biology?,Is it used in cars?,Confused
+Confused,How do geysers erupt?,"10,000 gallons? I thought it was 100,00",Confused
+Confused,What causes droughts?,40°C?,Confused
+Confused,What is the purpose of stomata in leaves?,They let water in?,Confused
+Confused,How do dolphins communicate?,1000s? I thought it was 100?,Confused
+Confused,What is erosion and how does it happen?,I think it's like rain?,Confused
+Confused,How do astronauts survive in space?,100% oxygen? I thought it was just air.,Confused
+Confused,What is the pH scale used for?,100?,Confused
+Confused,How do amphibians breathe?,2000 gallons?!,Confused
+Confused,What causes iron to oxidize?,100 degrees Celsius?,Confused
+Confused,How does friction affect motion?,100% of the time?,Confused
+Confused,What is an ecosystem made of?,100% water?,Confused
+Confused,How does the human body regulate temperature?,100 degrees? Can you repeat that?,Confused
+Distracted,What are the layers of the Earth?,I forgot to brush my teeth.,Distracted
+Distracted,What is the heart?,98% of my chest is filled with blood.,Distracted
+Distracted,How does the sun affect Earth?,Sunlight feels warm on my skin.,Distracted
+Distracted,How does photosynthesis work?,I saw someone smoking a joint.,Distracted
+Distracted,What is an ecosystem?,icky feeling.,Distracted
+Distracted,How does evaporation happen?,icky feeling when it rains.,Distracted
+Distracted,What is a bar graph?,3 is my favorite number.,Distracted
+Distracted,Why is recycling important?,It’s good for the environment.,Focused
+Distracted,How does sound travel?,40 mph? I thought it was 60.,Confused
+Distracted,Why is the scientific method useful?,I have a theory about the weather.,Distracted
+Distracted,What is a life cycle?,100 days to grow a human? I forgot about that.,Distracted
+Distracted,What is sound?,100% of the time.,Distracted
+Distracted,What is the perimeter of a shape?,100 meters? I want to go running.,Distracted
+Distracted,Who was the first US president?,2020 is a bad year.,Distracted
+Distracted,How does electricity power devices?,I forgot to turn it off last night.,Distracted
+Distracted,How does magnetism affect objects?,I saw a magnet on my friend's car.,Distracted
+Distracted,Who was Harper Lee?,1960s were crazy. I was so young.,Distracted
+Distracted,What is a fable?,Fables are funny.,Focused
+Distracted,What is magnetism?,I used to play with stray magnets.,Distracted
+Distracted,Why is voting important?,I've never voted before.,Focused
+Distracted,Why is plants essential to life?,I forgot to water it today.,Distracted
+Distracted,What is area?,100 yards is a long distance.,Distracted
+Distracted,What is photosynthesis?,I forgot to water the plants.,Distracted
+Distracted,What is a food chain?,iguanas are cute.,Distracted
+Distracted,Who was the inventor of the light bulb?,I forgot I turned off my light.,Distracted
+Distracted,What is the nervous system?,I forgot to brush my teeth.,Distracted
+Distracted,How does plants reproduce?,I forgot I had some flowers in my room.,Distracted
+Distracted,How does the water cycle work?,I forgot to turn off the tap.,Distracted
+Distracted,Who was the author of '1984'?,1984 sounds like a dystopian novel.,Focused
+Distracted,What is the solar system?,200 planets. Can you say that again?,Distracted
+Distracted,How does recycling help the environment?,It makes me feel better about littering.,Distracted
+Distracted,Who was a hero of the American Revolution?,1776 was a great year.,Distracted
+Distracted,Who was Albert Einstein?,1914 was a rough year.,Distracted
+Distracted,What is gravity?,I think it's hard to walk on a beach.,Distracted
+Distracted,Why is exercise good for your health?,I used to be really tired all the time.,Distracted
+Distracted,What is a pronoun?,I use it a lot.,Distracted
+Distracted,How does maps help us navigate?,It's hard to focus when I see all those landmarks.,Distracted
+Distracted,How does the nervous system send signals?,I get jittery when I watch too much TV.,Distracted
+Distracted,What is the water cycle?,I saw a waterfall today.,Distracted
+Distracted,How does weather prediction work?,50 degrees feels like 80.,Distracted
+Distracted,What is the meaning of democracy?,I once saw a movie about a government.,Distracted
+Distracted,What is the Pythagorean theorem?,3 x 3 = 9. Can you repeat that?,Distracted
+Distracted,What is fractions?,1/4 cup is so small.,Distracted
+Distracted,How does a food chain function?,I never knew it had so many parts.,Distracted
+Distracted,How does animals adapt?,I saw a squirrel this morning.,Distracted
+Distracted,Why is gravity important?,I got lost in a maze yesterday.,Focused
+Distracted,How does a bar graph display data?,2021 was a wild year.,Distracted
+Distracted,What is a haiku?,4-7 syllables? I'm not sure I understand.,Confused
+Distracted,What is the five senses?,I forgot my glasses.,Distracted
+Distracted,What is evaporation?,I once saw a water balloon deflate on a hot day.,Distracted
+Focused,What are the layers of the Earth?,"igneous, sedimentary, and metamorphic.",Focused
+Focused,What is the heart?,140 beats per minute.,Focused
+Focused,How does the sun affect Earth?,"93 million miles away, it creates weather patterns.",Confused
+Focused,How does photosynthesis work?,"Plants use light to create energy. Light absorbed by chlorophyll converts to energy,",Focused
+Focused,What is an ecosystem?,An environment where living organisms interact.,Focused
+Focused,How does evaporation happen?,"When you water your lawn, you release water vapor into the air.",Focused
+Focused,What is a bar graph?,A graph with two axes.,Focused
+Focused,Why is recycling important?,Recycling reduces waste and conserves natural resources.,Focused
+Focused,How does sound travel?,70% of sound is absorbed by Earth's atmosphere.,Focused
+Focused,Why is the scientific method useful?,It helps us understand the world around us.,Focused
+Focused,What is a life cycle?,1. Fertilization 2. Growth 3. Development 4. Re,Focused
+Focused,What is sound?,Sound is the vibration of objects.,Focused
+Focused,What is the perimeter of a shape?,3 sides.,Focused
+Focused,Who was the first US president?,"45th president, Barack Obama.",Focused
+Focused,How does electricity power devices?,120 volts is the standard voltage used to power devices.,Confused
+Focused,How does magnetism affect objects?,Magnets can attract or repel things.,Focused
+Focused,Who was Harper Lee?,She wrote “To Kill a Mockingbird.”,Focused
+Focused,What is a fable?,A story with a moral.,Focused
+Focused,What is magnetism?,Magnets are made of iron and magnetic materials.,Focused
+Focused,Why is voting important?,Voting helps to ensure that our voices are heard.,Focused
+Focused,Why is plants essential to life?,Plants produce oxygen and absorb carbon dioxide.,Focused
+Focused,What is area?,3.141592653589793238,Focused
+Focused,What is photosynthesis?,Plants use sunlight to convert carbon dioxide and water into food.,Focused
+Focused,What is a food chain?,1. Carnivore,Focused
+Focused,Who was the inventor of the light bulb?,Thomas Edison. He invented the light bulb and changed the world.,Focused
+Focused,What is the nervous system?,The nervous system controls our body's response to stimuli.,Focused
+Focused,How does plants reproduce?,Plants reproduce through seeds.,Focused
+Focused,How does the water cycle work?,icy conditions can form on the surface of water due to evaporation. The water vapor r,Focused
+Focused,Who was the author of '1984'?,1984 is a dystopian novel by George Orwell.,Focused
+Focused,What is the solar system?,"7 planets, 7 moons, and more than 100 asteroids.",Focused
+Focused,How does recycling help the environment?,"100% of waste is recycled, which reduces waste in landfills. It",Focused
+Focused,Who was a hero of the American Revolution?,1776 was the year George Washington led the Continental Army.,Focused
+Focused,Who was Albert Einstein?,He was a Nobel Prize winner in physics.,Focused
+Focused,What is gravity?,9.8 m/s²,Focused
+Focused,Why is exercise good for your health?,Exercise helps reduce stress and improve mood.,Focused
+Focused,What is a pronoun?,"1st person singular pronouns are I, me, my, and mine.",Focused
+Focused,How does maps help us navigate?,1:1 mapping technology allows us to see our surroundings more clearly.,Focused
+Focused,How does the nervous system send signals?,Nerve impulses travel through the spinal cord and then to the brain.,Focused
+Focused,What is the water cycle?,"Water evaporates from the earth, moves to the air, then condenses back to water.",Focused
+Focused,How does weather prediction work?,Weather patterns are based on the Earth's rotation and the position of the sun. The Earth,Focused
+Focused,What is the meaning of democracy?,Democracy is a form of government where everyone has a voice.,Focused
+Focused,What is the Pythagorean theorem?,3 sides of a triangle have equal length.,Focused
+Focused,What is fractions?,1/4 is 1/4.,Focused
+Focused,How does a food chain function?,Animals eat plants and plants produce oxygen.,Focused
+Focused,How does animals adapt?,"They have different skin types, for example.",Focused
+Focused,Why is gravity important?,Gravity helps us stay on Earth.,Focused
+Focused,How does a bar graph display data?,100 is the height and the y-axis represents the average temperature.,Focused
+Focused,What is a haiku?,"5-7 syllables, three lines.",Focused
+Focused,What is the five senses?,5 is the fifth number.,Focused
+Focused,What is evaporation?,Water evaporates from the Earth's surface.,Focused
+Confused,What are the layers of the Earth?,3? I thought it was 7?,Confused
+Confused,What is the heart?,22?,Confused
+Confused,How does the sun affect Earth?,12 hours? I thought it was 24 hours.,Confused
+Confused,How does photosynthesis work?,3 hours?!?,Confused
+Confused,What is an ecosystem?,100 fish in a pond?,Confused
+Confused,How does evaporation happen?,2/3 of the Earth is water?,Confused
+Confused,What is a bar graph?,3x4 squares?,Confused
+Confused,Why is recycling important?,Is it just for plastic?,Confused
+Confused,How does sound travel?,250 miles per hour?,Confused
+Confused,Why is the scientific method useful?,It's a fancy way to test things?,Confused
+Confused,What is a life cycle?,10 months? I thought it was 12 months.,Confused
+Confused,What is sound?,2200 hertz?,Confused
+Confused,What is the perimeter of a shape?,5 square feet?,Confused
+Confused,Who was the first US president?,23rd?,Confused
+Confused,How does electricity power devices?,120 volts?,Confused
+Confused,How does magnetism affect objects?,100%?,Confused
+Confused,Who was Harper Lee?,1965?,Confused
+Confused,What is a fable?,A silly story?,Confused
+Confused,What is magnetism?,A force that pulls objects?,Confused
+Confused,Why is voting important?,100 years ago?,Confused
+Confused,Why is plants essential to life?,Is it because we eat it?,Confused
+Confused,What is area?,3.14?,Confused
+Confused,What is photosynthesis?,"50% sunlight, 50% water?",Confused
+Confused,What is a food chain?,500 people?,Confused
+Confused,Who was the inventor of the light bulb?,19th century?,Confused
+Confused,What is the nervous system?,360 degrees?,Confused
+Confused,How does plants reproduce?,3-way cross?,Confused
+Confused,How does the water cycle work?,1. Can you repeat the question? 2. No.,Distracted
+Confused,Who was the author of '1984'?,1984 is a movie?,Confused
+Confused,What is the solar system?,10 planets?,Confused
+Confused,How does recycling help the environment?,I didn't know that.,Focused
+Confused,Who was a hero of the American Revolution?,18th century?,Confused
+Confused,Who was Albert Einstein?,1914? I thought it was 1915.,Distracted
+Confused,What is gravity?,100 miles per hour?,Confused
+Confused,Why is exercise good for your health?,Exercise makes you tired?,Confused
+Confused,What is a pronoun?,3-sided shape?,Confused
+Confused,How does maps help us navigate?,511? I don't know what that is.,Confused
+Confused,How does the nervous system send signals?,100 miles? Can you repeat that?,Distracted
+Confused,What is the water cycle?,40 minutes?!? I thought it was 24 hours.,Confused
+Confused,How does weather prediction work?,2020 was a weird year.,Distracted
+Confused,What is the meaning of democracy?,100%?,Confused
+Confused,What is the Pythagorean theorem?,5 x 5 = 25?,Confused
+Confused,What is fractions?,1/2?,Confused
+Confused,How does a food chain function?,100 fish swim upstream?,Confused
+Confused,How does animals adapt?,They have fur?,Confused
+Confused,Why is gravity important?,240 km/h?!,Confused
+Confused,How does a bar graph display data?,200? I think it's 100.,Distracted
+Confused,What is a haiku?,27 syllables? What is that?,Confused
+Confused,What is the five senses?,6?,Confused
+Confused,What is evaporation?,100% humidity?,Confused
+Focused,What is nine plus ten?,9 + 10 = 19.,Focused
+Distracted,What is nine plus ten?,19 is a lot to remember.,Distracted
+Confused,What is nine plus ten?,29?,Confused
